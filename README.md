@@ -7,7 +7,7 @@ Meu nome é Luiz Eduardo, tenho 19 anos, sou Técnico em Informatica pelo IFPB -
 
 ## 🖥🖱 Tecnologias
 
-Tenho conhecimento em HTML, CSS e Javascript alem de noções de React JS e Node JS. Tambem usei outras linguagens como Python, C e Java. Tento semprer colaborar com outras pessoas e compartilhar o pouco que sei!
+Tenho conhecimento em HTML, CSS e Javascript alem de noções de React JS e Node JS. Tambem usei outras linguagens como Python, C e Java. Atualmente estou estudando desenvolvimento mobile com Flutter. Tento semprer colaborar com outras pessoas e compartilhar o pouco que sei!
 
 <!--
 **LuizEduardoBP/LuizEduardoBP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
