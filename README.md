@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ Sobre mim
 
-Meu nome é Luiz Eduardo, tenho 19 anos, sou Técnico em Informatica pelo IFPB - Campus Esperança e estou cursando Engenharia da Computação no IFPB Campus Campina Grande, gosto de escutar musicas, jogar e principalmente programar, e estou sempre aprendendo mais e procurando novos desafios. Atualmente faço estagio em desenvolvimento mobile com FLutter.
+Meu nome é Luiz Eduardo, tenho 19 anos, sou Técnico em Informatica pelo IFPB - Campus Esperança e estou cursando Engenharia da Computação no IFPB Campus Campina Grande, gosto de escutar musicas, jogar e principalmente programar, e estou sempre aprendendo mais e procurando novos desafios. Atualmente faço estagio em desenvolvimento mobile com Flutter.
 
 ## 🖥🖱 Tecnologias
 
