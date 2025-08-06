@@ -3,11 +3,11 @@
 
 ## 🙋‍♂️ Sobre mim
 
-Meu nome é Luiz Eduardo, tenho 22 anos, sou Técnico em Informatica pelo IFPB - Campus Esperança e estou cursando Engenharia da Computação no IFPB Campus Campina Grande, gosto de escutar musicas, jogar e principalmente programar, e estou sempre aprendendo mais e procurando novos desafios.
+Meu nome é Luiz Eduardo, tenho 23 anos, sou Técnico em Informatica pelo IFPB - Campus Esperança e Bacharel em Engenharia da Computação no IFPB Campus Campina Grande, gosto de escutar musicas, jogar e principalmente programar, e estou sempre aprendendo mais e procurando novos desafios.
 
 ## 🖥🖱 Tecnologias
 
-Minha principal stack atual é Dart/Flutter, porem tenho conhecimento em HTML, CSS e Javascript alem de noções de React JS e Node JS. Tambem usei outras linguagens como Python, C e Java. Tento semprer colaborar com outras pessoas e compartilhar o pouco que sei!
+Trabalho atualmente com SpringBoot/Java e React.js, e possuo conhecimento de outras stacks como React Native, C#, Flutter/Dart.
 
 <!--
 **LuizEduardoBP/LuizEduardoBP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
