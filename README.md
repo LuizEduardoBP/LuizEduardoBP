@@ -4,7 +4,7 @@
 ## 🙋‍♂️ Sobre mim
 
 🧑‍🎓 Meu nome é Luiz Eduardo, tenho 24 anos, sou Bacharel em Engenharia da Computação no IFPB Campus Campina Grande e Técnico em Informatica pelo IFPB - Campus Esperança. 
-🔭 Tenho aproximadamente 5 anos de experiencia em desenvolvimento, e atuo como Desenvolvedor Mobile na EasyData Solutions. Também atuo como Desenvolvedor Fullstack na Bluhmwerk Tecnologia. 
+🔭 Tenho aproximadamente 5 anos de experiencia em desenvolvimento, e atuo como Desenvolvedor Mobile na EasyData Solutions e como Desenvolvedor Fullstack na Bluhmwerk Tecnologia. 
 🧑‍🏫 Participo do projeto Inclus como monitor voluntário ensinando lógica de programação e desenvolvimento fullstack. 
 🌱 Atualmente estou cursando o curso técnico em Inteligencia Artificial no IFNMG.
 
